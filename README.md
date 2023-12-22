@@ -1,6 +1,6 @@
 # Snake
  
-What di I even have to say abot it
+What do I even have to say abot it
 
 ## What I have to say
 
