@@ -6,4 +6,6 @@ What do I even have to say abot it
 
 The Snake window expands at 75 and 200 Points.
 
-I also wrote down some quotes from the youtube channel "Steven He" and print them as a "motivation" every time you fail
+I also wrote down some quotes from the YouTube channel "Steven He" and print a randomly picked one of them as a "motivation" every time you fail.
+
+## Have fun and good luck!
