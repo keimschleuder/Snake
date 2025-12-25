@@ -110,8 +110,8 @@ def food_collision():
 
 # Erzeugt eine neue Position des Essens
 def get_random_food_position():
-    x = random.randint(- w / 2 + food_border_distance, w / 2 - food_border_distance)
-    y = random.randint(- h / 2 + food_border_distance, h / 2 - food_border_distance)
+    x = random.randint(int(- w / 2 + food_border_distance), int(w / 2 - food_border_distance))
+    y = random.randint(int(- h / 2 + food_border_distance), int(h / 2 - food_border_distance))
     return (x, y)
 
 # Ermittelt die Distanz zwischen zwei Punkten
